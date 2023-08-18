@@ -1,5 +1,5 @@
 # React-Slider-Carousel
-A small carousel project with react
+A carousel tutorial project with react
 
 You can start and stop auto sliding by clicking the button
 
